@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicStabilityProblem", "AtomicStabilityProblem\AtomicStabilityProblem.csproj", "{6EBF7A70-F1CD-4F25-AFBF-CE348ECC45CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBF7A70-F1CD-4F25-AFBF-CE348ECC45CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBF7A70-F1CD-4F25-AFBF-CE348ECC45CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBF7A70-F1CD-4F25-AFBF-CE348ECC45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBF7A70-F1CD-4F25-AFBF-CE348ECC45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF372292-662A-4708-903F-09112C7C2D90}
+	EndGlobalSection
+EndGlobal
